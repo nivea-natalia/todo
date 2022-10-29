@@ -1,0 +1,32 @@
+
+
+#botaodelete{
+  width: 25px;
+  height: 25px;
+  background-image: url("icone/bloquear.png");
+  background-size: cover;
+  object-fit: contain;
+  border-radius: 50px;
+  border: none;
+  background-color: none;
+}
+#botaoeditar{
+  width: 25px;
+  height: 25px;
+  background-image: url("icone/livro-de-contato.png");
+  background-size: cover;
+  object-fit: contain;
+  border-radius: 50px;
+  border: none;
+  background-color: beige;
+}
+#botaofavor{
+  width: 25px;
+  height: 25px;
+  background-image: url("imagem/img-1-Resize.com.jpg");
+  background-size: cover;
+  object-fit: contain;
+  border-radius: 50px;
+  border: none;
+  background-color: beige;
+}
